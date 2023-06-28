@@ -1,0 +1,1 @@
+﻿select * from PARTICIPATING_TEAM where TEAM_NAME='TEAM A';
